@@ -20,6 +20,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a target="_blank" rel="noopener noreferrer" href="/tandpfun/skill-icons/blob/main/icons/Gherkin-Dark.svg">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gherkin-Dark.svg" width="40" style="max-width: 100%;">
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
